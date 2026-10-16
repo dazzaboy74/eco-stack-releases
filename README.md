@@ -24,8 +24,9 @@ This repository holds only release files; the game's source lives elsewhere.
 | Flick down | Drop straight to the bottom |
 | Swipe up | Keep the piece for later (Hold) |
 
-Fill a row from side to side to clear it. Every 10 lines the game goes up a level and the boxes fall
-faster. Clearing four lines at once scores the most, and four after four scores half as much again.
+Fill a row from side to side to clear it. Every line you clear makes the boxes fall a little faster
+(twice as fast after about 23 lines), and every 10 lines the level goes up, which raises the points for
+each line. Clearing four lines at once scores the most, and four after four scores half as much again.
 
 The game pauses by itself when you leave it, pull down the notifications or press Back, and picks up
 where you left off next time. Your best score stays on the phone.
